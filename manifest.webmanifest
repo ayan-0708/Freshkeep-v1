@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "Freshkeep — Home Inventory",
+  "short_name": "Freshkeep",
+  "description": "Track groceries, medicines and household items before they expire.",
+  "lang": "en",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f7f8f3",
+  "theme_color": "#1f7657",
+  "icons": [
+    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
